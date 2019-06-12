@@ -1,2 +1,2 @@
-# cloneInstagram
-cloneInstagram
+# cloneInsta
+Clone Instagram ;D
