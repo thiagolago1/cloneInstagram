@@ -11,7 +11,7 @@ const server = require('http').Server(app);
 const io = require('socket.io')(server);
 
 //String de conexão com o mongodb
-mongoose.connect('mongodb+srv://dbUser:user_db_master@cluster0-diq1n.mongodb.net/test?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://Banco:senha@cluster0-diq1n.mongodb.net/test?retryWrites=true&w=majority', {
     useNewUrlParser: true,
 });
 
